@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "docker-app-1",
+        IMAGE_NAME = "docker-app-1"
         PROFILE="dev"
     }
 
