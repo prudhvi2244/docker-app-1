@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: docker-app-1
+
+
+
